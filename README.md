@@ -1,2 +1,2 @@
 # projeto4-parrots
-Jogo na memoria com javaScript
+Jogo da memoria com javaScript
